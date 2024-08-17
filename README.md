@@ -7,9 +7,13 @@ the car leaves.
 Here is an example I/O of the final program with the bold being the input being in bold
 
 Car Park Simulator
+
 The current time is 00:00:00.
+
 Commands: advance {minutes}, arrive, depart, quit.
+
 **arrive**
+
 Ticket issued: Ticket[id=80000001, time=00:00:00].
 **advance 1**
 The current time is 00:01:00.
