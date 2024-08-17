@@ -1,4 +1,4 @@
-#Car park simulator
+# Car park simulator
 
 This project models a pay to stay car park using Java. Every car recieves a ticket on arrival
 stamped with the car's arrival time. On departure the duration of the stay is calculated as 
